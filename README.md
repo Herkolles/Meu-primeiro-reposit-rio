@@ -1,4 +1,4 @@
-Desafio de Progeto sober Git/Git Hub da Dio
+Desafio de Projeto Dio sobre Git/Github  
 #Repositório criado para o desafio do progeto
 
 ## Links Úteis
